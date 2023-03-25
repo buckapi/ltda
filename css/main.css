@@ -2348,3 +2348,20 @@ ul.timing-list,ul.info-list{padding-top: 10px;}
 ul.info-list li i{margin-right: 10px;font-size: 15px;}
 .member-contact-form{padding: 30px;}
 
+.whatsapp {
+  position:fixed;
+  width:45px;
+  height:45px;
+  bottom:20px;
+  left:20px;
+  background-color:#25d366;
+  color:#fff;
+  border-radius:50%;
+  text-align:center;
+  font-size:45px;
+  z-index:100;
+}
+
+.whatsapp-icon {
+  margin-top:15px;
+}
